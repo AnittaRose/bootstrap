@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sub{
+    padding-left: 125px;
+    padding-top: 100px;
+    font-size: 30px;
+}
